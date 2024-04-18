@@ -14,12 +14,12 @@ It first asks you for a file name to search for in the current playlist. If ther
 
 Can be used with both the CLI:
 
-[![command line interface][product-screenshot]](./images/cli.png)
+![command line interface](./images/cli.png)
 
 
 and the GUI:
 
-[![Graphical user interface][product-screenshot]](./images/gui.png)
+![Graphical user interface](./images/gui.png)
 
 ## Issues
 
